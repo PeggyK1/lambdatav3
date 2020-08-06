@@ -5,7 +5,7 @@ Lambdata - A collection of helpful data science functions
 import setuptools
 
 REQUIRED = [
-    "numpy"
+    "numpy",
     "pandas"
 ]
 
